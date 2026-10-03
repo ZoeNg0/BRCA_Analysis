@@ -1,0 +1,10 @@
+data/
+exports/
+plots/
+logs/
+GDCdata/
+*.rds
+*.RData
+.Rhistory
+.Rproj.user/
+.DS_Store
